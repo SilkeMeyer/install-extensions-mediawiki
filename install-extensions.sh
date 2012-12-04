@@ -1,4 +1,4 @@
-git clone https://gerrit.wikimedia.org/r/p/mediawiki/extensions/AbuseFilter.git
+#git clone https://gerrit.wikimedia.org/r/p/mediawiki/extensions/AbuseFilter.git
 git clone https://gerrit.wikimedia.org/r/p/mediawiki/extensions/AntiBot.git
 git clone https://gerrit.wikimedia.org/r/p/mediawiki/extensions/AntiSpoof.git
 git clone https://gerrit.wikimedia.org/r/p/mediawiki/extensions/ApiSandbox.git
@@ -65,4 +65,4 @@ git clone https://gerrit.wikimedia.org/r/p/mediawiki/extensions/wikihiero.git
 git clone https://gerrit.wikimedia.org/r/p/mediawiki/extensions/WikiLove.git
 git clone https://gerrit.wikimedia.org/r/p/mediawiki/extensions/WikimediaMessages.git
 git clone https://gerrit.wikimedia.org/r/p/mediawiki/extensions/WikimediaShopLink.git
-git clone https://gerrit.wikimedia.org/r/p/mediawiki/extensions/ZeroRatedMobileAccess.git
+#git clone https://gerrit.wikimedia.org/r/p/mediawiki/extensions/ZeroRatedMobileAccess.git

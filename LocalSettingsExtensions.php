@@ -1,4 +1,4 @@
-require_once( "$IP/extensions/AbuseFilter/AbuseFilter.php" );
+//require_once( "$IP/extensions/AbuseFilter/AbuseFilter.php" );
 require_once( "$IP/extensions/AntiBot/AntiBot.php" );
 require_once( "$IP/extensions/AntiSpoof/AntiSpoof.php" );
 require_once( "$IP/extensions/ApiSandbox/ApiSandbox.php" );
@@ -64,7 +64,7 @@ require_once( "$IP/extensions/wikihiero/wikihiero.php" );
 require_once( "$IP/extensions/WikiLove/WikiLove.php" );
 require_once( "$IP/extensions/WikimediaMessages/WikimediaMessages.php" );
 require_once( "$IP/extensions/WikimediaShopLink/WikimediaShopLink.php" );
-require_once( "$IP/extensions/ZeroRatedMobileAccess/ZeroRatedMobileAccess.php" );
+//require_once( "$IP/extensions/ZeroRatedMobileAccess/ZeroRatedMobileAccess.php" );
 # OAI repository for update server
 @include( $IP.'/extensions/OAI/OAIRepo.php' );
 $oaiAgentRegex = '/experimental/';
