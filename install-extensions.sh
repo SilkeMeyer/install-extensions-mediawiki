@@ -6,8 +6,6 @@ git clone https://gerrit.wikimedia.org/r/p/mediawiki/extensions/ArticleFeedback.
 git clone https://gerrit.wikimedia.org/r/p/mediawiki/extensions/AssertEdit.git
 git clone https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Babel.git
 git clone https://gerrit.wikimedia.org/r/p/mediawiki/extensions/CategoryTree.git
-git clone https://gerrit.wikimedia.org/r/p/mediawiki/extensions/CategoryTree.git
-git clone https://gerrit.wikimedia.org/r/p/mediawiki/extensions/CentralAuth.git
 git clone https://gerrit.wikimedia.org/r/p/mediawiki/extensions/CentralNotice.git
 git clone https://gerrit.wikimedia.org/r/p/mediawiki/extensions/CharInsert.git
 git clone https://gerrit.wikimedia.org/r/p/mediawiki/extensions/CheckUser.git
@@ -16,11 +14,10 @@ git clone https://gerrit.wikimedia.org/r/p/mediawiki/extensions/cldr.git
 git clone https://gerrit.wikimedia.org/r/p/mediawiki/extensions/ClickTracking.git
 git clone https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Collection.git
 git clone https://gerrit.wikimedia.org/r/p/mediawiki/extensions/ConfirmEdit.git
-git clone https://gerrit.wikimedia.org/r/p/mediawiki/extensions/DismissableSiteNotice.git
+#git clone https://gerrit.wikimedia.org/r/p/mediawiki/extensions/DismissableSiteNotice.git
 git clone https://gerrit.wikimedia.org/r/p/mediawiki/extensions/EditPageTracking.git
-git clone https://gerrit.wikimedia.org/r/p/mediawiki/extensions/EducationProgram.git
 git clone https://gerrit.wikimedia.org/r/p/mediawiki/extensions/EmailCapture.git
-git clone https://gerrit.wikimedia.org/r/p/mediawiki/extensions/EventLogging.git
+#git clone https://gerrit.wikimedia.org/r/p/mediawiki/extensions/EventLogging.git
 git clone https://gerrit.wikimedia.org/r/p/mediawiki/extensions/ExpandTemplates.git
 git clone https://gerrit.wikimedia.org/r/p/mediawiki/extensions/FeaturedFeeds.git
 git clone https://gerrit.wikimedia.org/r/p/mediawiki/extensions/FlaggedRevs.git
@@ -54,8 +51,8 @@ git clone https://gerrit.wikimedia.org/r/p/mediawiki/extensions/SiteMatrix.git
 git clone https://gerrit.wikimedia.org/r/p/mediawiki/extensions/SpamBlacklist.git
 git clone https://gerrit.wikimedia.org/r/p/mediawiki/extensions/SwiftCloudFiles.git
 git clone https://gerrit.wikimedia.org/r/p/mediawiki/extensions/SyntaxHighlight_GeSHi.git
-git clone https://gerrit.wikimedia.org/r/p/mediawiki/extensions/TimedMediaHandler.git
-git clone https://gerrit.wikimedia.org/r/p/mediawiki/extensions/timeline.git
+#git clone https://gerrit.wikimedia.org/r/p/mediawiki/extensions/TimedMediaHandler.git
+#git clone https://gerrit.wikimedia.org/r/p/mediawiki/extensions/timeline.git
 git clone https://gerrit.wikimedia.org/r/p/mediawiki/extensions/TitleBlacklist.git
 git clone https://gerrit.wikimedia.org/r/p/mediawiki/extensions/TitleKey.git
 git clone https://gerrit.wikimedia.org/r/p/mediawiki/extensions/TorBlock.git
